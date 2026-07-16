@@ -20,6 +20,5 @@ class Solution {
             }
         }
         return {repeating, missing};
-        
     }
 };
