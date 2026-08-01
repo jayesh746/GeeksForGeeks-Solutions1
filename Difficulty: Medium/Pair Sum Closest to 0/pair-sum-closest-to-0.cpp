@@ -15,14 +15,15 @@ class Solution {
             
             else if(abs(sum) == abs(ans))
             ans = max(ans, sum);
-            if(sum<0)
+            if(sum<0){
             left++;
-            
-            else if(sum>0)
+            }
+            else if(sum>0){
             right--;
-            
-            else 
+            }
+            else{ 
             return 0;
+            }
         }
         return ans;
     }
