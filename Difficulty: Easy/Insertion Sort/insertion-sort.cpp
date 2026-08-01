@@ -1,21 +1,19 @@
 class Solution {
-public:
+  public:
     void insertionSort(vector<int>& arr) {
-
-        int n = arr.size();
-
-        for (int i = 1; i < n; i++) {
-
+        
+        for(int i = 1; i<arr.size(); i++){
+            
             int current = arr[i];
-            int previous = i - 1;
-
-            while (previous >= 0 && arr[previous] > current) {
-
-                arr[previous + 1] = arr[previous];
-                previous--;
+            int prev = i-1;
+            
+            while(prev>=0 && arr[prev]>current){
+                arr[prev+1] = arr[prev];
+                prev--;
             }
-
-            arr[previous + 1] = current;
+           arr[prev+1] = current;
         }
+        
+        
     }
 };
