@@ -2,19 +2,16 @@ class Solution {
   public:
     bool areDisjoint(vector<int> &a, vector<int> &b) {
         // code here
-        unordered_map<int, int> mp;
+        unordered_map<int,int> fuck;
         
         for(int i = 0; i<a.size(); i++){
-            mp[a[i]]++;
+            fuck[a[i]]++;
         }
         
         for(int i = 0; i<b.size(); i++){
-            if(mp[b[i]]>0){
-                return false;
-            }
-             
-
+            if(fuck[b[i]]>0)
+            return false;
         }
-                    return true;
+        return true;
     }
 };
