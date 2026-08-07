@@ -7,17 +7,18 @@ class Solution {
         
         while(min<=max){
             
-            int mid = (min+max
+            int mide
+            = (min+max
             )/2;
             
-            if(arr[mid] == k)
+            if(arr[mide] == k)
             return true;
             
-            else if(arr[mid]<k)
-            min = mid+1;
+            else if(arr[mide]<k)
+            min = mide+1;
             
             else
-            max = mid-1;
+            max = mide-1;
         }
         return false;
         
