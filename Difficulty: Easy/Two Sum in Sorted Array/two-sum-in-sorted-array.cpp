@@ -6,12 +6,12 @@ class Solution {
         int right = arr.size()-1;
         
         while(right>left){
-            int sum = arr[left]+arr[right];
+            int add = arr[left]+arr[right];
             
-            if(sum == target){
+            if(add == target){
                 return{left+1, right+1};
             }
-            else if(sum>target){
+            else if(add>target){
                 right--;
             }
             else{
