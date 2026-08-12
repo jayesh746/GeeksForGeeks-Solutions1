@@ -2,16 +2,16 @@ class Solution {
   public:
     int findDuplicate(vector<int>& arr) {
         // code here
-        unordered_map<int, int> mp;
+        unordered_map<int, int> sp;
         
         for(int i = 0; i<arr.size(); i++){
-            mp[arr[i]]++;
+            sp[arr[i]]++;
         }
         
         int repeating = 0;
         
         for(int i = 1; i<=arr.size(); i++){
-            if(mp[i]==2){
+            if(sp[i]==2){
                 repeating = i;
             }
         }
