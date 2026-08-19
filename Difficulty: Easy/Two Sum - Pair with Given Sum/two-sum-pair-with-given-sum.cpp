@@ -8,12 +8,10 @@ class Solution {
             int need = target - arr[i];
             
             if(st.find(need) != st.end()){
-                return true;
+               return true;
             }
-            
             st.insert(arr[i]);
-        }
+        } 
         return false;
-        
     }
 };
