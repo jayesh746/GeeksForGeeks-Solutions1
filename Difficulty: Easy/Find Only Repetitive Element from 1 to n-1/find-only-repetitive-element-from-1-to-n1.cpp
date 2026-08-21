@@ -10,7 +10,7 @@ class Solution {
         
         int repeating = 0;
         
-        for(int i = 1; i<=arr.size(); i++){
+        for(int i = 0; i<=arr.size(); i++){
             if(sp[i]==2){
                 repeating = i;
             }
