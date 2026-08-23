@@ -4,24 +4,21 @@ class Solution {
 		// code here
 		sort(arr.begin(), arr.end());
 		int n = arr.size();
-		int count = 0;
-		
+		int coun = 0;
 		for (int right = n - 1; right >= 2; right--) {
+			
 			int left = 0;
 			int mid = right - 1;
-			
-			while (left < mid) {
-				if(arr[left] + arr[mid] > arr[right]) {
-					
-					count += mid - left;
+			while (mid>left) {
+				if (arr[left] + arr[mid] > arr[right]) {
+					coun += mid - left;
 					mid--;
 				}
-				
 				else {
 					left++;
 				}
 			}
 		}
-		return count;
+		return coun;
 	}
 };
