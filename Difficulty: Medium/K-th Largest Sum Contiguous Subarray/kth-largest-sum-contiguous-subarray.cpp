@@ -2,7 +2,7 @@ class Solution {
   public:
     int kthLargest(vector<int> &arr, int k) {
         // code here
-        vector<int> a;
+        vector<int> q;
         
         for(int i = 0; i<arr.size(); i++){
             
@@ -10,10 +10,10 @@ class Solution {
             
             for(int j = i; j<arr.size(); j++){
                 sum += arr[j];
-                a.push_back(sum);
+                q.push_back(sum);
             }
         }
-        sort(a.begin(), a.end(), greater<int>());
-        return a[k-1];
+        sort(q.begin(), q.end(), greater<int>());
+        return q[k-1];
     }
 };
