@@ -4,7 +4,7 @@ class Solution {
         // code here
         vector<int> ans;
         for(int i = 0; i<arr.size(); i+=2){
-           ans.push_back(arr[i]);
+            ans.push_back(arr[i]);
         }
         return ans;
     }
