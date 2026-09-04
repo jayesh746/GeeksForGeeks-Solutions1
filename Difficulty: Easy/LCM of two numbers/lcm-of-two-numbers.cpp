@@ -6,12 +6,11 @@ class Solution {
         int y = b;
         
         while(y != 0){
-            int rem = x%y;
+            int remain = x%y;
             x = y;
-            y = rem;
+            y = remain;
         }
         int gcd = x;
-        
         return (a*b)/gcd;
     }
 };
