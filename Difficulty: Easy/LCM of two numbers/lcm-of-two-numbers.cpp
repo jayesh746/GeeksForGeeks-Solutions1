@@ -5,12 +5,13 @@ class Solution {
         int x = a;
         int y = b;
         
-        while(y != 0){
-            int remain = x%y;
+        while(y!= 0){
+            int rem = x%y;
             x = y;
-            y = remain;
+            y = rem;
         }
         int gcd = x;
-        return (a*b)/gcd;
+        
+        int LCM = (a*b)/gcd;
     }
 };
