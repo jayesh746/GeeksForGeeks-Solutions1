@@ -6,14 +6,14 @@ class Solution {
             return 0;
         }
         
-        int prev = 0;
-        int curr = 1;
+        int pre = 0;
+        int cur = 1;
         
         for(int i = 2; i<=n; i++){
-            int next = prev + curr;
-            prev = curr;
-            curr = next;
+            int next = pre + cur;
+            pre = cur;
+            cur = next;
         }
-        return curr;
+        return cur;
     }
 };
