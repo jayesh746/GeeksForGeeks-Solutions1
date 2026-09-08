@@ -1,16 +1,16 @@
 class Solution {
   public:
     int kthDigit(int a, int b, int k) {
-        // code her
-        int long long n = 1;
+        // code here
+        long long ans = 1;
         for(int i = 0; i<b; i++){
-            n *= a;
+            ans *= a;
         }
         
         for(int i = 1; i<k; i++){
-            n = n/10;
+            ans = ans/10;
             
         }
-        return n%10;
+        return ans%10;
     }
 };
