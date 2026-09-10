@@ -2,11 +2,11 @@ class Solution {
   public:
     long long nPr(int n, int r) {
         // code here
-        long long ans = 1;
+        long long answer = 1;
         for(int i = 0; i<r; i++){
-            ans *= n;
+            answer *= n;
             n--;
         }
-        return ans;
+        return answer;
     }
 };
