@@ -3,13 +3,13 @@ class Solution {
 
     int cost(vector<int>& arr) {
         // code here
-        int min = arr[0];
         int n = arr.size();
-        for(int i = 1; i<arr.size(); i++){
-            if(min>arr[i]){
-                min = arr[i];
+        int minm = arr[0];
+        for(int i = 0; i<arr.size(); i++){
+            if(minm>arr[i]){
+                minm = arr[i];
             }
         }
-        return min*(n-1);
+        return minm*(n-1);
     }
 };
