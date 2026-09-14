@@ -7,7 +7,7 @@ class Solution {
 				if (ar[i] <= ar[i - 1]) {
 					swap(ar[i], ar[i - 1]);
 				}
-				
+
 			}
 			else {
 				if (ar[i]>ar[i - 1]) {
