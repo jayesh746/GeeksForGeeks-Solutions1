@@ -3,11 +3,11 @@ class Solution {
     int subarraySum(vector<int>& arr) {
 
         int n = arr.size();
-        int sum = 0;
+        int add = 0;
 
         for(int i = 0; i<n; i++){
-            sum += arr[i]*(i+1)*(n-i);
+            add += arr[i]*(i+1)*(n-i);
         }
-        return sum;
+        return add;
     }
 };
