@@ -10,9 +10,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 9 | 0 | 9 | 0 |
+| LeetCode | 10 | 0 | 10 | 0 |
 | GeeksforGeeks | 1 | 0 | 1 | 0 |
-| **Total** | **10** | **0** | **10** | **0** |
+| **Total** | **11** | **0** | **11** | **0** |
 
 ## Solved Problems
 
@@ -23,9 +23,10 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 3 | [15. 3Sum](https://leetcode.com/problems/3sum/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/15_3Sum.py) |
 | 4 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/153_FindMinimumInRotatedSortedArray.py) |
 | 5 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/189_RotateArray.py) |
-| 6 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.py) |
-| 7 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/56_MergeIntervals.py) |
-| 8 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/560_SubarraySumEqualsK.py) |
-| 9 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/75_SortColors.py) |
-| 10 | [Find Only Repetitive Element from 1 to n-1](https://practice.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FindOnlyRepetitiveElementFrom1ToN1.cpp) |
+| 6 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/215_KthLargestElementInAnArray.py) |
+| 7 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.py) |
+| 8 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/56_MergeIntervals.py) |
+| 9 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/560_SubarraySumEqualsK.py) |
+| 10 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/75_SortColors.py) |
+| 11 | [Find Only Repetitive Element from 1 to n-1](https://practice.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FindOnlyRepetitiveElementFrom1ToN1.cpp) |
 <!-- COMMITDSA_END -->
