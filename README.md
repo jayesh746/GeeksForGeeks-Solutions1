@@ -10,9 +10,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 15 | 0 | 15 | 0 |
+| LeetCode | 16 | 0 | 16 | 0 |
 | GeeksforGeeks | 1 | 0 | 1 | 0 |
-| **Total** | **16** | **0** | **16** | **0** |
+| **Total** | **17** | **0** | **17** | **0** |
 
 ## Solved Problems
 
@@ -31,7 +31,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 11 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/56_MergeIntervals.py) |
 | 12 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/560_SubarraySumEqualsK.py) |
 | 13 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/621_TaskScheduler.py) |
-| 14 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/739_DailyTemperatures.py) |
-| 15 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/75_SortColors.py) |
-| 16 | [Find Only Repetitive Element from 1 to n-1](https://practice.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FindOnlyRepetitiveElementFrom1ToN1.cpp) |
+| 14 | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/641_DesignCircularDeque.py) |
+| 15 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/739_DailyTemperatures.py) |
+| 16 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/75_SortColors.py) |
+| 17 | [Find Only Repetitive Element from 1 to n-1](https://practice.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FindOnlyRepetitiveElementFrom1ToN1.cpp) |
 <!-- COMMITDSA_END -->
