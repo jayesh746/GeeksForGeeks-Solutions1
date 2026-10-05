@@ -10,9 +10,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 21 | 0 | 21 | 0 |
+| LeetCode | 22 | 0 | 22 | 0 |
 | GeeksforGeeks | 1 | 0 | 1 | 0 |
-| **Total** | **22** | **0** | **22** | **0** |
+| **Total** | **23** | **0** | **23** | **0** |
 
 ## Solved Problems
 
@@ -22,22 +22,23 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 2 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/11_ContainerWithMostWater.py) |
 | 3 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/128_LongestConsecutiveSequence.py) |
 | 4 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/133_CloneGraph.py) |
-| 5 | [15. 3Sum](https://leetcode.com/problems/3sum/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/15_3Sum.py) |
-| 6 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/150_EvaluateReversePolishNotation.py) |
-| 7 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/153_FindMinimumInRotatedSortedArray.py) |
-| 8 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/155_MinStack.py) |
-| 9 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/189_RotateArray.py) |
-| 10 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/207_CourseSchedule.py) |
-| 11 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/215_KthLargestElementInAnArray.py) |
-| 12 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/230_KthSmallestElementInABST.py) |
-| 13 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/236_LowestCommonAncestorOfABinaryTree.py) |
-| 14 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.py) |
-| 15 | [394. Decode String](https://leetcode.com/problems/decode-string/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/394_DecodeString.py) |
-| 16 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/56_MergeIntervals.py) |
-| 17 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/560_SubarraySumEqualsK.py) |
-| 18 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/621_TaskScheduler.py) |
-| 19 | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/641_DesignCircularDeque.py) |
-| 20 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/739_DailyTemperatures.py) |
-| 21 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/75_SortColors.py) |
-| 22 | [Find Only Repetitive Element from 1 to n-1](https://practice.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FindOnlyRepetitiveElementFrom1ToN1.cpp) |
+| 5 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/146_LRUCache.py) |
+| 6 | [15. 3Sum](https://leetcode.com/problems/3sum/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/15_3Sum.py) |
+| 7 | [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/150_EvaluateReversePolishNotation.py) |
+| 8 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/153_FindMinimumInRotatedSortedArray.py) |
+| 9 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/155_MinStack.py) |
+| 10 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/189_RotateArray.py) |
+| 11 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/207_CourseSchedule.py) |
+| 12 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/215_KthLargestElementInAnArray.py) |
+| 13 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/230_KthSmallestElementInABST.py) |
+| 14 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/236_LowestCommonAncestorOfABinaryTree.py) |
+| 15 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/34_FindFirstAndLastPositionOfElementInSortedArray.py) |
+| 16 | [394. Decode String](https://leetcode.com/problems/decode-string/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/394_DecodeString.py) |
+| 17 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/56_MergeIntervals.py) |
+| 18 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/560_SubarraySumEqualsK.py) |
+| 19 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/621_TaskScheduler.py) |
+| 20 | [641. Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/641_DesignCircularDeque.py) |
+| 21 | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/739_DailyTemperatures.py) |
+| 22 | [75. Sort Colors](https://leetcode.com/problems/sort-colors/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/75_SortColors.py) |
+| 23 | [Find Only Repetitive Element from 1 to n-1](https://practice.geeksforgeeks.org/problems/find-repetitive-element-from-1-to-n-1/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FindOnlyRepetitiveElementFrom1ToN1.cpp) |
 <!-- COMMITDSA_END -->
